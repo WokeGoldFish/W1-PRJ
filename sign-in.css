@@ -89,5 +89,19 @@
 .blah {
     display: flex;
     justify-content: center;
-    padding-top: 4rem;
+    padding-top: 14rem;
+    font-size: 200%;
+}
+.icons {
+    display: flex;
+    justify-content: space-around;
+    font-size: 100px;
+    padding-top: 8rem;
+    color: dodgerblue;
+   
+}
+
+.button{
+    font-size: 100px;
+    padding-top: 8rem;
 }
