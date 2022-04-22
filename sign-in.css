@@ -1,0 +1,42 @@
+.leftside, .rightside {
+
+    height:100vh;
+    width: 100%;
+}
+
+.leftside {
+
+    background: blue;
+    border-bottom-right-radius: 100%
+}
+
+.rightside{
+    
+    background: whitesmoke;
+}
+
+#ip2 {
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px; 
+    width: 340px;
+    height: 15px;    
+}
+
+.button5 {
+    border-radius: 25px;
+    color: white;  
+    
+    padding: 20px; 
+    width: 340px;
+    height:px;       
+}
+    .Sign {
+        text-align: center;
+        margin-top: 0;
+        font-size: large;
+    }
+
+.row {
+    display: flexbox;
+}
