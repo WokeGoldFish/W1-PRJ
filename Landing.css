@@ -1,0 +1,18 @@
+.container1 {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 150px 150px 150px;
+  }
+  .container1 > .white {
+      padding: 10px;
+      background-color: white;
+  }
+
+  .container1 > div {
+      padding: 10px;
+      background-color: dodgerblue;
+  }
+  .top-half{
+      display: flex;
+      justify-content: space-between;
+  }
