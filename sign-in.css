@@ -26,13 +26,12 @@
     display: flex;
     justify-content: center;
     padding-top: 2rem;
-    border
 }
 .button3{
     border-radius: 25px;
     padding: 20px; 
-    width: 340px;
-    height: px; 
+    width:340px;
+    
 }
 #ip2 {
     border-radius: 25px;
