@@ -16,3 +16,42 @@
       display: flex;
       justify-content: space-between;
   }
+  .left-side {
+      padding-left: 4rem;
+  }
+  .filler-text{
+      font-size: small;
+  }
+  .fa-circle{
+      font-size: xx-small;
+      margin: 10px;
+      color: blue;
+  }
+
+  .filler-jumk{
+      justify-content: center;
+      display: flex;
+  }
+
+  .icon-bar{
+      display: flex;
+      border: 1rem;
+      justify-content: space-around;
+      border-color: black;
+  }
+  .chad {
+      padding: 3rem;
+  }
+
+
+  .info-container{
+      display: flex;
+      border:1rem;
+      border-color:black;
+      justify-content: center;
+      
+  }
+  .info-section{
+      border-left: 1rem;
+      border-color:blue
+  }
