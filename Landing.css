@@ -1,15 +1,12 @@
-.container1 {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-columns: 150px 150px 150px;
-}
 
 .container1>.white {
     padding: 10px;
     background-color: white;
+    
+    border-width: 10px;
 }
 
-.container1>div {
+.container1>div>.blue {
     padding: 10px;
     background-color: dodgerblue;
 }
@@ -87,5 +84,14 @@ td {
 
 .footer-header{
 justify-content: space-around;
+}
+
+.top-text {
+    color: grey;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.btn {
+    max-width: 100%;
 }
 
