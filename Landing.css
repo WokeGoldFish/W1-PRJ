@@ -2,56 +2,90 @@
     display: grid;
     grid-gap: 10px;
     grid-template-columns: 150px 150px 150px;
-  }
-  .container1 > .white {
-      padding: 10px;
-      background-color: white;
-  }
+}
 
-  .container1 > div {
-      padding: 10px;
-      background-color: dodgerblue;
-  }
-  .top-half{
-      display: flex;
-      justify-content: space-between;
-  }
-  .left-side {
-      padding-left: 4rem;
-  }
-  .filler-text{
-      font-size: small;
-  }
-  .fa-circle{
-      font-size: xx-small;
-      margin: 10px;
-      color: blue;
-  }
+.container1>.white {
+    padding: 10px;
+    background-color: white;
+}
 
-  .filler-jumk{
-      justify-content: center;
-      display: flex;
-  }
+.container1>div {
+    padding: 10px;
+    background-color: dodgerblue;
+}
 
-  .icon-bar{
-      display: flex;
-      border: 1rem;
-      justify-content: space-around;
-      border-color: black;
-  }
-  .chad {
-      padding: 3rem;
-  }
+.top-half {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side {
+    padding-left: 4rem;
+}
+
+.filler-text {
+    font-size: small;
+}
+
+.fa-circle {
+    font-size: xx-small;
+    margin: 10px;
+    color: blue;
+}
+
+.filler-jumk {
+    justify-content: center;
+    display: flex;
+}
+
+.icon-bar {
+    display: flex;
+    border: 1rem;
+    justify-content: space-around;
+    border-color: black;
+}
+
+.chad {
+    padding: 3rem;
+}
 
 
-  .info-container{
-      display: flex;
-      border:1rem;
-      border-color:black;
-      justify-content: center;
-      
-  }
-  .info-section{
-      border-left: 1rem;
-      border-color:blue
-  }
+.info-container {
+    display: flex;
+    border: 1rem;
+    border-color: black;
+    justify-content: center;
+
+}
+
+.info-section {
+    border-left: 1rem;
+    border-color: blue;
+}
+
+
+.txt-container {
+    display: flex;
+    justify-content: center;
+
+}
+table,
+table td {
+  border: 1px solid #cccccc;
+}
+
+td {
+  height: 80px;
+  width: 160px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.bottom{
+    background-color: dodgerblue;
+}
+
+.footer-header{
+justify-content: space-around;
+}
+
