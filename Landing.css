@@ -1,6 +1,6 @@
 
 .container1>.white {
-    padding: 10px;
+    padding: 5550px;
     background-color: white;
     
     border-width: 10px;
@@ -95,3 +95,13 @@ justify-content: space-around;
     max-width: 100%;
 }
 
+
+
+.icon-boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.icon-table{
+    justify-content: center;
+}
