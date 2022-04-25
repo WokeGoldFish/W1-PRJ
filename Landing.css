@@ -17,7 +17,7 @@
 }
 
 .left-side {
-    padding-left: 4rem;
+    
 }
 
 .filler-text {
@@ -104,4 +104,20 @@ justify-content: space-around;
 
 .icon-table{
     justify-content: center;
+}
+
+.navbar{
+    max-width:auto;
+}
+
+.nav-item{
+    text-align: center;
+    padding-left: 8rem;
+    color:white;
+}
+.navbar {
+    background:dodgerblue;
+}
+.txtcont {
+    background-color: dodgerblue;
 }

@@ -3,3 +3,35 @@
     margin-top: 1rem;
     margin-bottom: 2rem;
 }
+
+.txtcont {
+    background-color: dodgerblue;
+}
+
+
+footer {
+    background: dodgerblue;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: white;
+}
+
+.footer-header {
+    justify-content: space-around;
+}
+
+.fa-circle {
+    font-size: xx-small;
+    margin: 10px;
+    color: dodgerblue;
+}
+
+.nav-item{
+    text-align: center;
+    padding-left: 8rem;
+    color:white;
+}
+.navbar {
+    background:dodgerblue;
+}
