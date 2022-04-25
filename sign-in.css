@@ -51,7 +51,6 @@
     border-radius: 25px;
     padding: 20px;
     width: 340px;
-    height: px;
     display: flex;
     justify-content: center;
     padding-top: 2rem;
@@ -62,6 +61,7 @@
     text-align: center;
     margin-top: 0;
     font-size: large;
+    text-decoration: none;
 }
 
 .row {
